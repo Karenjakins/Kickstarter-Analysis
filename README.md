@@ -22,9 +22,7 @@ As for her fundraising goal, we used descriptive statistics to help Louise pick 
 
 Based on the data we had on theatre fundraisers we created a pivot table to filter by successful, failed and cancelled fundraisers based on the month. Once the chart was generated, we were able to observe that campaigns launched during the summer months had a higher success rate compared to the rest of the year. The line graph can be referenced below:
 
-[Outcomes Based on Launched Date]
-
-[Outcome Based on Launched Date]: https://github.com/Karenjakins/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.svg "Outcomes Based on Launched Date"
+! [alt text](https://github.com/Karenjakins/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.svg "Outcomes Based on Launched Date")
 
 ### Analysis of Outcomes Based on Goals
 
