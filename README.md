@@ -1,4 +1,4 @@
-# TEST Kickstarter Analysis
+# Kickstarter Analysis
 
 ## **Overview of Project**
 
