@@ -10,11 +10,11 @@ Throughout the analysis, we found trends that were responsible for the success o
 
 Since Louise was going to launch her theatre campaign in the US, we filtered the data to display the results for all the theatre fundraisers conducted in the US. We also applied conditional formatting to easily visualize the data by colour-coding the successful, failed and cancelled campaigns. 
 
-[conditional formatting]
+![alt text](https://github.com/Karenjakins/kickstarter-analysis/blob/main/Conditional%20Formatting.png "Conditional Formatting")
 
 Since we found there was a correlation between successful campaigns and the month of the year they were launched, we created a pivot table to help Louise pick the most successful date to start her fundraiser. 
 
-[successful months]
+![alt text](https://github.com/Karenjakins/kickstarter-analysis/blob/main/Successful%20months.png "Successful Months")
 
 As for her fundraising goal, we used descriptive statistics to help Louise pick a fundraising amount by finding the median of goal and pledged amounts of successful theatre campaigns so that Louise can pick a realistic amount. 
 
