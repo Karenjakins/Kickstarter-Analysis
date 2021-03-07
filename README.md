@@ -24,7 +24,7 @@ Based on the data we had on theatre fundraisers we created a pivot table to filt
 
 [Outcomes Based on Launched Date]
 
-[Outcomes Based on Launched Date]: https://github.com/Karenjakins/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.svg "Outcomes Based on Launched Date"
+[Outcome Based on Launched Date]: https://github.com/Karenjakins/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.svg "Outcomes Based on Launched Date"
 
 ### Analysis of Outcomes Based on Goals
 
