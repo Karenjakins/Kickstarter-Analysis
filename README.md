@@ -22,13 +22,13 @@ As for her fundraising goal, we used descriptive statistics to help Louise pick 
 
 Based on the data we had on theatre fundraisers we created a pivot table to filter by successful, failed and cancelled fundraisers based on the month. Once the chart was generated, we were able to observe that campaigns launched during the summer months had a higher success rate compared to the rest of the year. The line graph can be referenced below:
 
-![alt text](https://github.com/Karenjakins/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.svg "Outcomes Based on Launched Date")
+![alt text](https://github.com/Karenjakins/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png "Outcomes Based on Launched Date")
 
 ### Analysis of Outcomes Based on Goals
 
 For the analysis on Outcomes Based on Goals, we observed that the if the goal amount is within less than $1000 and up to $14999 the success rate is higher, and the number of failed fundraisers is low. Please reference the line graph below:
 
-![alt text](https://github.com/Karenjakins/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Goal.png "Outcomes Based on Goal")
+![alt text](https://github.com/Karenjakins/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png "Outcomes Based on Goal")
 
 ### Challenges and Difficulties Encountered
 
